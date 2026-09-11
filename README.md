@@ -22,7 +22,7 @@
 name: Aman Jain
 role: Site Reliability Engineer / DevOps Engineer
 location: India (open to relocation & remote)
-experience: 4.6+ years
+experience: 5 years
 current_focus:
   - Kubernetes (EKS) cluster management for 20+ microservices
   - CI/CD pipeline automation & GitOps workflows
