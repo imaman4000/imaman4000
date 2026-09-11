@@ -135,14 +135,44 @@ I'm passionate about building infrastructure that's **reliable, automated, and i
 
 ---
 
-### 🎓 Certifications
+### 🎓 Certifications & Verified Badges
+
+<p align="center">
+  <a href="https://www.credly.com/badges/2ec3c896-02d9-4347-9d4f-ad8cf1f4549b">
+    <img src="https://images.credly.com/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/linkedin_thumb_blob" width="110" alt="AWS Certified CloudOps Engineer – Associate" />
+  </a>
+  <a href="https://www.credly.com/badges/03cf1e11-6e67-4997-9a6c-6b19e674bb06">
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/linkedin_thumb_image.png" width="110" alt="AWS Certified Solutions Architect – Associate" />
+  </a>
+  <a href="https://www.credly.com/badges/07260c99-7c24-45a5-9ae8-f4891d25c0ac">
+    <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/linkedin_thumb_image.png" width="110" alt="AWS Certified AI Practitioner" />
+  </a>
+  <a href="https://www.credly.com/badges/0881ca50-6903-4071-8bcd-9a68037ab5a1">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" width="110" alt="AWS Certified Cloud Practitioner" />
+  </a>
+  <a href="https://www.credly.com/badges/70b7e266-6b7f-4733-875f-6e2826268090">
+    <img src="https://images.credly.com/images/8f006312-3154-45bf-a845-4a043641e83c/linkedin_thumb_blob" width="110" alt="AWS Partner: Technical Accredited" />
+  </a>
+  <a href="https://www.credly.com/badges/79d42eca-a94e-46fe-9658-b60b0fa7fb19">
+    <img src="https://images.credly.com/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/linkedin_thumb_image.png" width="110" alt="AWS Certified AI Practitioner Early Adopter" />
+  </a>
+  <a href="https://www.credly.com/badges/44247c98-5732-4c44-8f54-f1636440f198">
+    <img src="https://images.credly.com/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/linkedin_thumb_blob" width="110" alt="LFS158: Introduction to Kubernetes" />
+  </a>
+  <a href="https://www.credly.com/badges/4376db7d-78fb-42bb-9084-dcd0f1f136d4">
+    <img src="https://images.credly.com/images/44994cda-b5b0-44cb-9a6d-d29b57163073/linkedin_thumb_image.png" width="110" alt="Google Cloud Digital Leader" />
+  </a>
+</p>
 
 | Certification | Issuer |
 |---|---|
-| AWS Certified CloudOps Engineer – Associate | Amazon Web Services |
-| AWS Certified Solutions Architect – Associate | Amazon Web Services |
-| AWS Certified AI Practitioner | Amazon Web Services |
-| AWS Certified Cloud Practitioner | Amazon Web Services |
+| [AWS Certified CloudOps Engineer – Associate](https://www.credly.com/badges/2ec3c896-02d9-4347-9d4f-ad8cf1f4549b) | Amazon Web Services |
+| [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/03cf1e11-6e67-4997-9a6c-6b19e674bb06) | Amazon Web Services |
+| [AWS Certified AI Practitioner](https://www.credly.com/badges/07260c99-7c24-45a5-9ae8-f4891d25c0ac) (+ [Early Adopter](https://www.credly.com/badges/79d42eca-a94e-46fe-9658-b60b0fa7fb19)) | Amazon Web Services |
+| [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0881ca50-6903-4071-8bcd-9a68037ab5a1) | Amazon Web Services |
+| [AWS Partner: Technical Accredited](https://www.credly.com/badges/70b7e266-6b7f-4733-875f-6e2826268090) | Amazon Web Services |
+| [LFS158: Introduction to Kubernetes](https://www.credly.com/badges/44247c98-5732-4c44-8f54-f1636440f198) | The Linux Foundation |
+| [Cloud Digital Leader Certification](https://www.credly.com/badges/4376db7d-78fb-42bb-9084-dcd0f1f136d4) | Google Cloud |
 
 ---
 
