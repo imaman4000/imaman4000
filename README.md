@@ -77,17 +77,25 @@ flowchart LR
 <td width="50%" valign="top">
 
 **Orchestration & Containers**
-<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
 
-Docker · Docker Compose · Kubernetes · AWS EKS · Helm · Container Registries
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="42" title="Docker"/></a>
+<a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="42" title="Kubernetes"/></a>
+<a href="https://helm.sh/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="42" title="Helm"/></a>
+<a href="https://aws.amazon.com/eks/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" title="AWS EKS"/></a>
+
+[Docker](https://www.docker.com/) · [Docker Compose](https://docs.docker.com/compose/) · [Kubernetes](https://kubernetes.io/) · [AWS EKS](https://aws.amazon.com/eks/) · [Helm](https://helm.sh/) · Container Registries
 
 </td>
 <td width="50%" valign="top">
 
 **CI/CD & GitOps**
-<img src="https://skillicons.dev/icons?i=jenkins,git,github,githubactions&theme=dark" />
 
-Jenkins · Git · GitHub Actions · GitFlow · SonarQube Gates
+<a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="42" title="Jenkins"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="42" title="Git"/></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="42" title="GitHub Actions"/></a>
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" width="42" title="SonarQube"/></a>
+
+[Jenkins](https://www.jenkins.io/) · [Git](https://git-scm.com/) · [GitHub Actions](https://github.com/features/actions) · GitFlow · [SonarQube](https://www.sonarsource.com/products/sonarqube/) Gates
 
 </td>
 </tr>
@@ -95,17 +103,25 @@ Jenkins · Git · GitHub Actions · GitFlow · SonarQube Gates
 <td width="50%" valign="top">
 
 **Cloud — AWS**
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
 
-EC2 · S3 · VPC · IAM · RDS · Lambda · Route 53 · Auto Scaling · CloudWatch
+<a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" title="AWS"/></a>
+<a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://img.icons8.com/color/48/amazon-s3.png" width="42" title="S3"/></a>
+<a href="https://aws.amazon.com/rds/" target="_blank"><img src="https://img.icons8.com/color/48/amazon-rds.png" width="42" title="RDS"/></a>
+<a href="https://aws.amazon.com/lambda/" target="_blank"><img src="https://img.icons8.com/color/48/amazon-lambda.png" width="42" title="Lambda"/></a>
+
+[EC2](https://aws.amazon.com/ec2/) · [S3](https://aws.amazon.com/s3/) · [VPC](https://aws.amazon.com/vpc/) · [IAM](https://aws.amazon.com/iam/) · [RDS](https://aws.amazon.com/rds/) · [Lambda](https://aws.amazon.com/lambda/) · [Route 53](https://aws.amazon.com/route53/) · Auto Scaling · [CloudWatch](https://aws.amazon.com/cloudwatch/)
 
 </td>
 <td width="50%" valign="top">
 
 **IaC & Scripting**
-<img src="https://skillicons.dev/icons?i=terraform,ansible,bash,python&theme=dark" />
 
-Terraform Modules · Ansible Playbooks · Bash · Python
+<a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="42" title="Terraform"/></a>
+<a href="https://www.ansible.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="42" title="Ansible"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="42" title="Bash"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" title="Python"/></a>
+
+[Terraform](https://www.terraform.io/) Modules · [Ansible](https://www.ansible.com/) Playbooks · [Bash](https://www.gnu.org/software/bash/) · [Python](https://www.python.org/)
 
 </td>
 </tr>
@@ -113,21 +129,31 @@ Terraform Modules · Ansible Playbooks · Bash · Python
 <td width="50%" valign="top">
 
 **Observability**
-<img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" />
 
-Prometheus · Grafana · Dynatrace · CloudWatch · PagerDuty
+<a href="https://prometheus.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="42" title="Prometheus"/></a>
+<a href="https://grafana.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="42" title="Grafana"/></a>
+<a href="https://www.dynatrace.com/" target="_blank"><img src="https://img.icons8.com/color/48/dynatrace.png" width="42" title="Dynatrace"/></a>
+<a href="https://www.pagerduty.com/" target="_blank"><img src="https://img.icons8.com/color/48/pagerduty.png" width="42" title="PagerDuty"/></a>
+
+[Prometheus](https://prometheus.io/) · [Grafana](https://grafana.com/) · [Dynatrace](https://www.dynatrace.com/) · [CloudWatch](https://aws.amazon.com/cloudwatch/) · [PagerDuty](https://www.pagerduty.com/)
 
 </td>
 <td width="50%" valign="top">
 
 **Systems**
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat&theme=dark" />
 
-Linux Admin · Ubuntu · RHEL/CentOS · systemd · Cron · Perf Tuning
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" title="Linux"/></a>
+<a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="42" title="Ubuntu"/></a>
+<a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="42" title="RHEL"/></a>
+<a href="https://www.centos.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" width="42" title="CentOS"/></a>
+
+[Linux](https://www.linux.org/) Admin · [Ubuntu](https://ubuntu.com/) · [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)/[CentOS](https://www.centos.org/) · systemd · Cron · Perf Tuning
 
 </td>
 </tr>
 </table>
+
+<sub>Every icon above links straight to the tool's official site.</sub>
 
 <br>
 
