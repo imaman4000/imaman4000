@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2EA3F2&height=220&section=header&text=Aman%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Site%20Reliability%20Engineer%20%7C%20DevOps%20%7C%20Cloud%20Infrastructure&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2EA3F2&height=220&section=header&text=Aman%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Site%20Reliability%20Engineer%20%7C%20DevOps%20%7C%20Cloud%20Infrastructure&descAlignY=58&descSize=18&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2EA3F2,50:76C6FA,100:E8F6FF&height=220&section=header&text=Aman%20Jain&fontSize=60&fontColor=0F2027&fontAlignY=38&desc=Site%20Reliability%20Engineer%20%7C%20DevOps%20%7C%20Cloud%20Infrastructure&descAlignY=58&descSize=18&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2EA3F2&height=220&section=header&text=Aman%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Site%20Reliability%20Engineer%20%7C%20DevOps%20%7C%20Cloud%20Infrastructure&descAlignY=58&descSize=18&animation=fadeIn" width="100%">
+</picture>
 
 <img src="https://komarev.com/ghpvc/?username=imaman4000&label=PROFILE%20UPTIME&color=2EA3F2&style=for-the-badge" />
 <img src="https://img.shields.io/badge/MTTR-Reduced-success?style=for-the-badge" />
@@ -105,9 +109,6 @@ flowchart LR
 **Cloud — AWS**
 
 <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" title="AWS"/></a>
-<a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://img.icons8.com/color/48/amazon-s3.png" width="42" title="S3"/></a>
-<a href="https://aws.amazon.com/rds/" target="_blank"><img src="https://img.icons8.com/color/48/amazon-rds.png" width="42" title="RDS"/></a>
-<a href="https://aws.amazon.com/lambda/" target="_blank"><img src="https://img.icons8.com/color/48/amazon-lambda.png" width="42" title="Lambda"/></a>
 
 [EC2](https://aws.amazon.com/ec2/) · [S3](https://aws.amazon.com/s3/) · [VPC](https://aws.amazon.com/vpc/) · [IAM](https://aws.amazon.com/iam/) · [RDS](https://aws.amazon.com/rds/) · [Lambda](https://aws.amazon.com/lambda/) · [Route 53](https://aws.amazon.com/route53/) · Auto Scaling · [CloudWatch](https://aws.amazon.com/cloudwatch/)
 
@@ -132,8 +133,6 @@ flowchart LR
 
 <a href="https://prometheus.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="42" title="Prometheus"/></a>
 <a href="https://grafana.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="42" title="Grafana"/></a>
-<a href="https://www.dynatrace.com/" target="_blank"><img src="https://img.icons8.com/color/48/dynatrace.png" width="42" title="Dynatrace"/></a>
-<a href="https://www.pagerduty.com/" target="_blank"><img src="https://img.icons8.com/color/48/pagerduty.png" width="42" title="PagerDuty"/></a>
 
 [Prometheus](https://prometheus.io/) · [Grafana](https://grafana.com/) · [Dynatrace](https://www.dynatrace.com/) · [CloudWatch](https://aws.amazon.com/cloudwatch/) · [PagerDuty](https://www.pagerduty.com/)
 
@@ -154,6 +153,42 @@ flowchart LR
 </table>
 
 <sub>Every icon above links straight to the tool's official site.</sub>
+
+<br><br>
+
+## 🎯 Skill Proficiency Map
+
+Confidence vs. hands-on production experience — another native-Mermaid chart, rendered live:
+
+```mermaid
+quadrantChart
+    title Proficiency vs Production Experience
+    x-axis Learning --> Deep Production Experience
+    y-axis Basic --> Expert
+    quadrant-1 Core Strengths
+    quadrant-2 Growing Fast
+    quadrant-3 Foundational
+    quadrant-4 Specialist Depth
+    Kubernetes / EKS: [0.82, 0.85]
+    AWS Cloud: [0.85, 0.88]
+    Terraform: [0.78, 0.8]
+    Jenkins CI/CD: [0.8, 0.78]
+    Docker: [0.88, 0.82]
+    Ansible: [0.65, 0.68]
+    Prometheus / Grafana: [0.6, 0.65]
+    Python / Bash: [0.7, 0.72]
+    Linux Administration: [0.83, 0.8]
+```
+
+<br>
+
+## 🏆 Trophy Cabinet
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=imaman4000&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
+</div>
 
 <br>
 
@@ -181,6 +216,14 @@ flowchart LR
 | [AWS Partner: Technical Accredited](https://www.credly.com/badges/70b7e266-6b7f-4733-875f-6e2826268090) | Amazon Web Services |
 | [LFS158: Introduction to Kubernetes](https://www.credly.com/badges/44247c98-5732-4c44-8f54-f1636440f198) | The Linux Foundation |
 | [Cloud Digital Leader Certification](https://www.credly.com/badges/4376db7d-78fb-42bb-9084-dcd0f1f136d4) | Google Cloud |
+
+<br>
+
+## 🧭 Currently Exploring
+
+- 🔍 Deepening GitOps workflows (ArgoCD / FluxCD) on top of the existing Jenkins pipelines
+- 📈 Expanding observability from metrics-only to full traces + logs correlation
+- 💰 Advanced AWS cost governance (Savings Plans, Compute Optimizer)
 
 <br>
 
