@@ -231,10 +231,13 @@ This is a rarely-used but genuinely cool GitHub feature: a GitHub Action eats yo
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aman-jain-973b151b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:amanjain15799@gamil.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aman-jain-973b151b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:amanjain15799@gmail.com?subject=Let%27s%20Connect&body=Hi%20Aman%2C%0A%0A" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=amanjain15799@gmail.com&su=Let%27s%20Connect" target="_blank"><img src="https://img.shields.io/badge/Compose%20in%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
+
+<p align="center"><sub>The first button opens your default mail app; the second opens Gmail directly in your browser with the message pre-addressed — use whichever actually works on your machine.</sub></p>
 
 <br>
 
