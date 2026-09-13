@@ -1,65 +1,219 @@
-<h1 align="center">Hi 👋, I'm Aman Jain</h1>
-<h3 align="center">Site Reliability Engineer | DevOps & Cloud Infrastructure | AWS</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Site+Reliability+Engineer;DevOps+%7C+Cloud+Infrastructure;AWS+%7C+Kubernetes+%7C+Terraform;Automating+Everything+%F0%9F%9A%80" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2EA3F2&height=220&section=header&text=Aman%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Site%20Reliability%20Engineer%20%7C%20DevOps%20%7C%20Cloud%20Infrastructure&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-- 🔭 I'm currently working as an **Information Systems Engineer (SRE)** at **HCLSoftware**, managing AWS EKS clusters serving 20+ microservices with 99.95% uptime
-- 🌱 I specialize in **Kubernetes, Docker, Terraform, CI/CD automation, and Infrastructure as Code**
-- 🛠️ I automate cloud infrastructure, cut deployment cycles, and optimize cloud costs
-- 📫 How to reach me: **amanjain15799@gamil.com**
-- 📄 4.6+ years of experience in DevOps / SRE / Cloud Infrastructure
+<img src="https://komarev.com/ghpvc/?username=imaman4000&label=PROFILE%20UPTIME&color=2EA3F2&style=for-the-badge" />
+<img src="https://img.shields.io/badge/MTTR-Reduced-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-open%20to%20work-brightgreen?style=for-the-badge" />
 
-### Technical Experience:
-- Kubernetes & Container Orchestration (EKS, Helm)
-- CI/CD & GitOps (Jenkins, GitHub Actions)
-- Infrastructure as Code (Terraform, Ansible)
-- Cloud Platform Engineering (AWS)
-- Site Reliability Engineering (SRE)
-- Monitoring & Observability
-- DevSecOps
+</div>
 
-### Languages and Tools:
-<p align="left">
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/></a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></a>
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/></a>
-<a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/></a>
-<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-</p>
+<br>
 
-#### You can also find me on:
-<p align="left">
-<a href="https://www.linkedin.com/in/aman-jain-973b151b7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aman Jain LinkedIn" height="30" width="40" /></a>
-</p>
+```
+$ whoami
+aman-jain — Information Systems Engineer (SRE) @ HCLSoftware
 
----
+$ uptime
+4 years, 6+ months | load average: automation, kubernetes, terraform
 
-### 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" alt="streak" />
-</p>
+$ cat mission.txt
+Build infrastructure so reliable, nobody remembers it's there.
+```
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs" />
-</p>
+<br>
 
-### 🏆 GitHub Trophies:
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+## 🗺️ Infrastructure Map
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR-GITHUB-USERNAME" />
-</p>
+Rather than a bullet list, here's how the pieces of my stack actually connect in production — this renders as a live diagram directly on GitHub:
+
+```mermaid
+flowchart LR
+    Dev["👨‍💻 Code Push"] --> Git["Git / GitHub"]
+    Git --> CI["Jenkins CI/CD"]
+    CI --> SQ["SonarQube\nQuality Gate"]
+    SQ --> Build["Docker Multi-stage\nBuild"]
+    Build --> ECR["AWS ECR"]
+    ECR --> CD["Helm Deploy"]
+    CD --> EKS["AWS EKS\n20+ Microservices"]
+    EKS --> CW["CloudWatch"]
+    EKS --> Prom["Prometheus + Grafana"]
+    CW --> PD["PagerDuty\nOn-call"]
+    Prom --> PD
+    Terra["Terraform Modules"] -.provisions.-> EKS
+    Terra -.provisions.-> RDS["AWS RDS"]
+    Terra -.provisions.-> VPC["VPC / IAM / S3"]
+    Ansible["Ansible Playbooks"] -.configures.-> EKS
+
+    style EKS fill:#2EA3F2,color:#fff
+    style CI fill:#D24939,color:#fff
+    style Terra fill:#7B42BC,color:#fff
+    style Prom fill:#F46800,color:#fff
+```
+
+<br>
+
+## 📟 System Metrics — Career Edition
+
+<div align="center">
+
+| Metric | Value | Trend |
+|:--|:--:|:--:|
+| Production Uptime Maintained | **99.95%** | 🟢 Stable |
+| Deployment Cycle Time | **↓ 80%** | 🟢 Improved |
+| Infrastructure Cost | **↓ 25%** | 🟢 Optimized |
+| Legacy Apps Containerized | **10+** | 🟢 Migrated |
+| Microservices Managed (EKS) | **20+** | 🟢 Live |
+| Experience | **4.6+ yrs** | 🔵 Growing |
+
+</div>
+
+<br>
+
+## 🧩 Stack Breakdown
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Orchestration & Containers**
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
+
+Docker · Docker Compose · Kubernetes · AWS EKS · Helm · Container Registries
+
+</td>
+<td width="50%" valign="top">
+
+**CI/CD & GitOps**
+<img src="https://skillicons.dev/icons?i=jenkins,git,github,githubactions&theme=dark" />
+
+Jenkins · Git · GitHub Actions · GitFlow · SonarQube Gates
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Cloud — AWS**
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+
+EC2 · S3 · VPC · IAM · RDS · Lambda · Route 53 · Auto Scaling · CloudWatch
+
+</td>
+<td width="50%" valign="top">
+
+**IaC & Scripting**
+<img src="https://skillicons.dev/icons?i=terraform,ansible,bash,python&theme=dark" />
+
+Terraform Modules · Ansible Playbooks · Bash · Python
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Observability**
+<img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" />
+
+Prometheus · Grafana · Dynatrace · CloudWatch · PagerDuty
+
+</td>
+<td width="50%" valign="top">
+
+**Systems**
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat&theme=dark" />
+
+Linux Admin · Ubuntu · RHEL/CentOS · systemd · Cron · Perf Tuning
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🎖️ Verified Certifications
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/2ec3c896-02d9-4347-9d4f-ad8cf1f4549b"><img src="https://images.credly.com/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/linkedin_thumb_blob" width="90" /></a>
+<a href="https://www.credly.com/badges/03cf1e11-6e67-4997-9a6c-6b19e674bb06"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/linkedin_thumb_image.png" width="90" /></a>
+<a href="https://www.credly.com/badges/07260c99-7c24-45a5-9ae8-f4891d25c0ac"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/linkedin_thumb_image.png" width="90" /></a>
+<a href="https://www.credly.com/badges/0881ca50-6903-4071-8bcd-9a68037ab5a1"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" width="90" /></a>
+<a href="https://www.credly.com/badges/70b7e266-6b7f-4733-875f-6e2826268090"><img src="https://images.credly.com/images/8f006312-3154-45bf-a845-4a043641e83c/linkedin_thumb_blob" width="90" /></a>
+<a href="https://www.credly.com/badges/79d42eca-a94e-46fe-9658-b60b0fa7fb19"><img src="https://images.credly.com/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/linkedin_thumb_image.png" width="90" /></a>
+<a href="https://www.credly.com/badges/44247c98-5732-4c44-8f54-f1636440f198"><img src="https://images.credly.com/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/linkedin_thumb_blob" width="90" /></a>
+<a href="https://www.credly.com/badges/4376db7d-78fb-42bb-9084-dcd0f1f136d4"><img src="https://images.credly.com/images/44994cda-b5b0-44cb-9a6d-d29b57163073/linkedin_thumb_image.png" width="90" /></a>
+
+</div>
+
+| Certification | Issuer |
+|:--|:--|
+| [AWS Certified CloudOps Engineer – Associate](https://www.credly.com/badges/2ec3c896-02d9-4347-9d4f-ad8cf1f4549b) | Amazon Web Services |
+| [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/03cf1e11-6e67-4997-9a6c-6b19e674bb06) | Amazon Web Services |
+| [AWS Certified AI Practitioner](https://www.credly.com/badges/07260c99-7c24-45a5-9ae8-f4891d25c0ac) · [Early Adopter](https://www.credly.com/badges/79d42eca-a94e-46fe-9658-b60b0fa7fb19) | Amazon Web Services |
+| [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0881ca50-6903-4071-8bcd-9a68037ab5a1) | Amazon Web Services |
+| [AWS Partner: Technical Accredited](https://www.credly.com/badges/70b7e266-6b7f-4733-875f-6e2826268090) | Amazon Web Services |
+| [LFS158: Introduction to Kubernetes](https://www.credly.com/badges/44247c98-5732-4c44-8f54-f1636440f198) | The Linux Foundation |
+| [Cloud Digital Leader Certification](https://www.credly.com/badges/4376db7d-78fb-42bb-9084-dcd0f1f136d4) | Google Cloud |
+
+<br>
+
+## 📌 Featured Deployment
+
+<div align="center">
+
+[![speedex_courier](https://github-readme-stats.vercel.app/api/pin/?username=imaman4000&repo=speedex_courier&theme=react&hide_border=true)](https://github.com/imaman4000/speedex_courier)
+
+</div>
+
+<p align="center"><i>Java · JSP/Servlets · MySQL — booking, tracking, and admin workflows for a courier management system.</i></p>
+
+<br>
+
+## 📊 Live Telemetry
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=imaman4000&show_icons=true&theme=react&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaman4000&layout=compact&theme=react&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imaman4000&theme=react&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imaman4000&theme=react-dark&hide_border=true" />
+
+</div>
+
+<details>
+<summary><b>🐍 Contribution Snake (set up once, updates itself)</b></summary>
+<br>
+
+This is a rarely-used but genuinely cool GitHub feature: a GitHub Action eats your own contribution graph like a snake game and commits the animation back into your repo automatically, so it's always fresh.
+
+1. Create `.github/workflows/snake.yml` in the `imaman4000/imaman4000` repo with the [Platane/snk](https://github.com/Platane/snk) action.
+2. It generates `github-contribution-grid-snake.svg` on a schedule.
+3. Embed it here:
+
+```md
+![snake](https://raw.githubusercontent.com/imaman4000/imaman4000/output/github-contribution-grid-snake.svg)
+```
+
+</details>
+
+<br>
+
+## 📮 Incident Response (a.k.a. Contact)
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aman-jain-973b151b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:amanjain15799@gamil.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br>
+
+<div align="center">
+<i>postmortem.log → "No root cause found. System performed exactly as designed: reliably, and without drama."</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA3F2,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
